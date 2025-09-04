@@ -16,11 +16,12 @@ It is designed to help users boost productivity by combining the **Pomodoro Tech
 
 ## 📱 Screenshots  
 
-*(Add your screenshots here once available)*  
-
-- **Task Screen**  
-- **Pomodoro Timer Screen**  
-- **Settings Screen**  
+<p align="center">
+  <img src="screenshots/task_list.png" alt="Task Screen" width="200"/>
+  <img src="screenshots/add_task.png" alt="Add Task Screen" width="200"/>
+  <img src="screenshots/pomodoro_screen.png" alt="Pomodoro Screen" width="200"/>
+  <img src="screenshots/settings_screen.png" alt="Settings Screen" width="200"/>
+</p>
 
 ---
 

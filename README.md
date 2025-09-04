@@ -2,7 +2,6 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/Mohit-sharma-2614/PomodoSync?style=flat-square)  
 ![GitHub forks](https://img.shields.io/github/forks/Mohit-sharma-2614/PomodoSync?style=flat-square)  
-![GitHub license](https://img.shields.io/github/license/Mohit-sharma-2614/PomodoSync?style=flat-square)  
 
 ---
 

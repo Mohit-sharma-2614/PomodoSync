@@ -58,6 +58,27 @@ Follow these steps to get the project up and running locally.
 - Android Studio **Giraffe or newer**  
 - JDK **11+**  
 
+## 🚀 Future Updates  
+
+Planned enhancements and upcoming features for **PomodoSync**:  
+
+- **Task Management Improvements**  
+  - Task sorting by priority, due date, or status  
+  - Ability to delete tasks  
+  - Show additional task metadata (e.g., created date, completed date)  
+
+- **Pomodoro Enhancements**  
+  - More detailed session statistics  
+  - History of completed sessions  
+  - Improved notifications and reminders  
+
+- **UI/UX**  
+  - Enhanced animations and transitions  
+  - More customization options for the wavy bottom navigation bar  
+
+*(These updates are part of the roadmap and will be released gradually.)*  
+
+
 ### Installation  
 
 1. Clone the repository:  

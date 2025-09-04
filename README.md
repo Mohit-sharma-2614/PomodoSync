@@ -62,4 +62,8 @@ Follow these steps to get the project up and running locally.
 1. Clone the repository:  
    ```bash
    https://github.com/Mohit-sharma-2614/PomodoSync
+2. Open the project in Android Studio.
 
+3. Sync Gradle and let dependencies download.
+
+4. Run the app on an emulator or physical device.

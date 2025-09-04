@@ -1,8 +1,8 @@
 # PomodoSync  
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/PomodoSync?style=flat-square)  
-![GitHub forks](https://img.shields.io/github/forks/your-username/PomodoSync?style=flat-square)  
-![GitHub license](https://img.shields.io/github/license/your-username/PomodoSync?style=flat-square)  
+![GitHub stars](https://img.shields.io/github/stars/Mohit-sharma-2614/PomodoSync?style=flat-square)  
+![GitHub forks](https://img.shields.io/github/forks/Mohit-sharma-2614/PomodoSync?style=flat-square)  
+![GitHub license](https://img.shields.io/github/license/Mohit-sharma-2614/PomodoSync?style=flat-square)  
 
 ---
 
@@ -62,5 +62,5 @@ Follow these steps to get the project up and running locally.
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/PomodoSync.git
+   https://github.com/Mohit-sharma-2614/PomodoSync
 
